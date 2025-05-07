@@ -1,8 +1,5 @@
 <h1>Projeto Pessoal: LLMs, RAG, ML e Backend com Python</h1>
 <body>
-
-  <h1>🧠 Projeto Técnico Pessoal — LLMs, RAG, Embeddings, ML e Backend</h1>
-
   <p>
     Este projeto foi desenvolvido para fins de <strong>estudo técnico e preparação para entrevistas</strong> 
     de vagas que envolvem <strong>desenvolvimento backend com foco em IA conversacional</strong>, 
