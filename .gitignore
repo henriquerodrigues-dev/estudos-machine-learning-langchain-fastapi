@@ -1,0 +1,42 @@
+# Ambiente virtual
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pastas do editor
+.idea/
+.vscode/
+
+# Arquivos de configuração
+*.env
+*.ini
+*.cfg
+
+# Arquivos temporários
+*.log
+*.bak
+*.swp
+*.swo
+
+# Arquivos de banco de dados locais
+*.sqlite3
+
+# Arquivos de distribuição
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Arquivos do PyCharm
+*.iml
+
+# Arquivos do macOS
+.DS_Store
+
+# Arquivos do Windows
+Thumbs.db
